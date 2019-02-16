@@ -16,12 +16,12 @@ public class BJ_4344 {
                 scoreArr[j] = s.nextInt();
             }
 
-            double result = getAverageUpPercent(getAvarage(scoreArr), scoreArr);
+            double average = getAvarage(scoreArr);
+            double result = getAverageUpPercent(average, scoreArr);
+
             System.out.printf("%.3f", result);
-            System.out.print("%");
-
+            System.out.println("%");
         }
-
     }
 
     //학생들의 평균 점수를 구하는 메소드
