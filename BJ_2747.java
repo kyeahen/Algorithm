@@ -6,14 +6,15 @@ public class BJ_2747 {
         Scanner s = new Scanner(System.in);
 
         int input = s.nextInt();
-        System.out.print(fibo(input));
+        System.out.print(fiboTail(input, 0, 1));
     }
 
-    public static int fibo(int num) {
-        if (num == 0 || num == 1) {
-            return num;
+
+    public static int fiboTail(int num, int before, int after) {
+        if (num == 1) {
+            return after;
         } else {
-            return fibo(num - 1) + fibo(num - 2);
+            return fiboTail(num - 1, after, before + after);
         }
     }
 }
