@@ -17,7 +17,6 @@ public class BJ_7568 {
         }
 
         for (int i = 0; i < num; i++) {
-
             for (int j = 0; j < num; j++) {
                 if (p[i].weight < p[j].weight && p[i].height < p[j].height) {
                     p[i].rank++;
@@ -28,7 +27,6 @@ public class BJ_7568 {
         for (int i = 0; i < num; i++) {
             System.out.print(p[i].rank + " ");
         }
-
     }
 }
 
@@ -37,7 +35,7 @@ class Person {
     int height;
     int rank;
 
-    public Person(int weight, int height) {
+    Person(int weight, int height) {
         this.weight = weight;
         this.height = height;
         this.rank = 1;
