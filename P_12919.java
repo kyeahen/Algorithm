@@ -1,3 +1,4 @@
+//서울에서 김서방 찾기 - leve;1
 public class P_12919 {
     static String KIM = "Kim";
 
