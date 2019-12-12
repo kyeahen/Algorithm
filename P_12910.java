@@ -1,5 +1,6 @@
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.Collections;
 
 //나누어 떨어지는 숫자 배열 - level1
 public class P_12910 {
