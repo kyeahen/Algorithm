@@ -20,3 +20,4 @@
 - [12912 두 정수 사이의 합](https://kyeahen.github.io/algorithm/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-12912-%EB%91%90-%EC%A0%95%EC%88%98-%EC%82%AC%EC%9D%B4%EC%9D%98-%ED%95%A9/)
 - [12910 나누어 떨어지는 숫자 배열](https://kyeahen.github.io/algorithm/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EB%82%98%EB%88%84%EC%96%B4-%EB%96%A8%EC%96%B4%EC%A7%80%EB%8A%94-%EC%88%AB%EC%9E%90-%EB%B0%B0%EC%97%B4/)
 - [12906 같은 숫자는 싫어](https://kyeahen.github.io/algorithm/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-12906-%EA%B0%99%EC%9D%80-%EC%88%AB%EC%9E%90%EB%8A%94-%EC%8B%AB%EC%96%B4/)
+- [42748 K번째 수](https://kyeahen.github.io/algorithm/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-42748-K%EB%B2%88%EC%A7%B8-%EC%88%98/)
