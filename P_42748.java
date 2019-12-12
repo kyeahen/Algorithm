@@ -37,7 +37,7 @@ public class P_42748 {
 
         for (int i = 0 ; i < commands.length; i++) {
             int a = commands[i][0] - 1;
-            int b = commands[i][1] - 1;
+            int b = commands[i][1];
             int k = commands[i][2] - 1;
 
             int[] temp = Arrays.copyOfRange(array, a, b);
