@@ -21,3 +21,9 @@
 - [12910 나누어 떨어지는 숫자 배열](https://kyeahen.github.io/algorithm/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EB%82%98%EB%88%84%EC%96%B4-%EB%96%A8%EC%96%B4%EC%A7%80%EB%8A%94-%EC%88%AB%EC%9E%90-%EB%B0%B0%EC%97%B4/)
 - [12906 같은 숫자는 싫어](https://kyeahen.github.io/algorithm/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-12906-%EA%B0%99%EC%9D%80-%EC%88%AB%EC%9E%90%EB%8A%94-%EC%8B%AB%EC%96%B4/)
 - [42748 K번째 수](https://kyeahen.github.io/algorithm/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-42748-K%EB%B2%88%EC%A7%B8-%EC%88%98/)
+- [12931 자릿수 더하기](https://kyeahen.github.io/algorithm/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-12931-%EC%9E%90%EB%A6%BF%EC%88%98-%EB%8D%94%ED%95%98%EA%B8%B0/)
+- [12933 정수 내림차순으로 배치하기](https://kyeahen.github.io/algorithm/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-12933-%EC%A0%95%EC%88%98-%EB%82%B4%EB%A6%BC%EC%B0%A8%EC%88%9C%EC%9C%BC%EB%A1%9C-%EB%B0%B0%EC%B9%98%ED%95%98%EA%B8%B0/)
+- [12937 짝수와 홀수](https://kyeahen.github.io/algorithm/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-12937-%EC%A7%9D%EC%88%98%EC%99%80-%ED%99%80%EC%88%98/)
+- [12935 제일 작은 수 제거하기](https://kyeahen.github.io/algorithm/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-12935-%EC%A0%9C%EC%9D%BC-%EC%9E%91%EC%9D%80-%EC%88%98-%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0/)
+- [12932 자연수 뒤집어 배열로 만들기](https://kyeahen.github.io/algorithm/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-12932-%EC%9E%90%EC%97%B0%EC%88%98-%EB%92%A4%EC%A7%91%EC%96%B4-%EB%B0%B0%EC%97%B4%EB%A1%9C-%EB%A7%8C%EB%93%A4%EA%B8%B0/)
+
