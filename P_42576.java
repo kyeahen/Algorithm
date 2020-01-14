@@ -15,9 +15,9 @@ public class P_42576 {
 
         for (String p : participant) {
             if (!hashMap.containsKey(p)) {
-                hashMap.put(p, 0);
+                hashMap.put(p, 1);
             } else {
-                //동명이인일 때 마다 value 값 증가
+                //동명이인일 때마다 value 값 증가
                 hashMap.put(p, hashMap.get(p) + 1);
             }
         }
@@ -27,10 +27,10 @@ public class P_42576 {
         }
 
         for (String m : hashMap.keySet()) {
-            if (hashMap.get(m) != -1) {
+            if (hashMap.get(m) != 0) {
                 result = m;
             }
         }
         return result;
-    }6
+    }
 }
