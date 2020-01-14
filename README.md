@@ -34,4 +34,6 @@
 - [12934 정수 제곱근 판별](https://kyeahen.github.io/algorithm/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-12934-%EC%A0%95%EC%88%98-%EC%A0%9C%EA%B3%B1%EA%B7%BC-%ED%8C%90%EB%B3%84/)
 - [12954 x만큼 간격이 있는 n개의 숫자](https://kyeahen.github.io/algorithm/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-12954-x%EB%A7%8C%ED%81%BC-%EA%B0%84%EA%B2%A9%EC%9D%B4-%EC%9E%88%EB%8A%94-n%EA%B0%9C%EC%9D%98-%EC%88%AB%EC%9E%90/)
 - [12940 최소공배수와 최대공약수](https://kyeahen.github.io/algorithm/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-12940-%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98%EC%99%80-%EC%B5%9C%EB%8C%80%EA%B3%B5%EC%95%BD%EC%88%98/)
+- [12943 콜라츠 추측](https://kyeahen.github.io/algorithm/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-12943-%EC%BD%9C%EB%9D%BC%EC%B8%A0-%EC%B6%94%EC%B8%A1/)
+- [42576 완주하지 못한 사람](https://kyeahen.github.io/algorithm/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-42576-%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80-%EB%AA%BB%ED%95%9C-%EC%82%AC%EB%9E%8C/)
 
