@@ -13,7 +13,6 @@ public class P_42588 {
         int[] arr = new int[heights.length];
 
         int start = heights.length - 1;
-
         for (int i = start; i >= 0; i--) {
             for (int j = i - 1; j >= 0; j--) {
                 if (heights[i] < heights[j]) {
