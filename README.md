@@ -42,3 +42,9 @@
 - [12947 하샤드 수](https://kyeahen.github.io/algorithm/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-12947-%ED%95%98%EC%83%A4%EB%93%9C-%EC%88%98/)
 - [12921 소수 찾기](https://kyeahen.github.io/algorithm/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-12921-%EC%86%8C%EC%88%98-%EC%B0%BE%EA%B8%B0/)
 
+### level2
+- [42588 탑](https://kyeahen.github.io/algorithm/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-42588-%ED%83%91/)
+- [42746 가장 큰 수](https://kyeahen.github.io/algorithm/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-42746-%EA%B0%80%EC%9E%A5-%ED%81%B0-%EC%88%98/)
+
+
+
