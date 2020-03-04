@@ -48,4 +48,4 @@
 - [42839 소수 찾기](https://kyeahen.github.io/algorithm/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-42839-%EC%86%8C%EC%88%98-%EC%B0%BE%EA%B8%B0/)
 - [42747 H-Index](https://kyeahen.github.io/algorithm/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-42747-H-Index/)
 - [12899 124 나라의 숫자](https://kyeahen.github.io/algorithm/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-12899-124-%EB%82%98%EB%9D%BC%EC%9D%98-%EC%88%AB%EC%9E%90/)
-
+- [42577 전화번호 목록](https://kyeahen.github.io/algorithm/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-42577-%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8-%EB%AA%A9%EB%A1%9D/)
