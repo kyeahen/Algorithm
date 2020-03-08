@@ -52,3 +52,4 @@
 - [42586 기능 개발](https://kyeahen.github.io/algorithm/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-42586-%EA%B8%B0%EB%8A%A5-%EA%B0%9C%EB%B0%9C/)
 - [42578 위장](https://kyeahen.github.io/algorithm/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-42578-%EC%9C%84%EC%9E%A5/)
 - [42584 주식가격](https://kyeahen.github.io/algorithm/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-42584-%EC%A3%BC%EC%8B%9D%EA%B0%80%EA%B2%A9/)
+- [42626 더 맵게](https://kyeahen.github.io/algorithm/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-42626-%EB%8D%94-%EB%A7%B5%EA%B2%8C/)
