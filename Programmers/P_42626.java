@@ -18,7 +18,7 @@ public class P_42626 {
 
         // int형 배열을 우선순위 큐에 넣어주기
         for (int i = 0; i < scoville.length; i++) {
-            pq.add(scoville[i]);
+            pq.offer(scoville[i]);
         }
 
         int count = 0;
