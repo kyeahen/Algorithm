@@ -1,3 +1,4 @@
+package Programmers;
 import java.util.Scanner;
 
 //약수의 합 - level1

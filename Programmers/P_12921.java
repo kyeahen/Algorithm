@@ -1,3 +1,4 @@
+package Programmers;
 import java.util.Scanner;
 
 //소수 찾기 - level1

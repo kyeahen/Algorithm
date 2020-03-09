@@ -1,3 +1,5 @@
+package Programmers;
+
 //자릿수 더하기 - level1
 public class P_12931 {
     public static void main(String[] args) {

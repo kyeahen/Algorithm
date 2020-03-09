@@ -1,3 +1,5 @@
+package Programmers;
+
 //핸드폰 번호 가리기 - level1
 public class P_12948 {
     public static void main(String[] args) {

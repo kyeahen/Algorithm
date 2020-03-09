@@ -1,3 +1,4 @@
+package Programmers;
 import java.util.Scanner;
 
 //수박수박수박수박수박수? - level1

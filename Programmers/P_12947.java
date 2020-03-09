@@ -1,3 +1,5 @@
+package Programmers;
+
 //하샤드 수 - level1
 public class P_12947 {
 

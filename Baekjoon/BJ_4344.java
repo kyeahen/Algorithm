@@ -1,4 +1,6 @@
+package Baekjoon;
 import java.util.Scanner;
+
 public class BJ_4344 {
 
     public static void main(String[] args) {

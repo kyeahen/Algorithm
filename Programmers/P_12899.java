@@ -1,3 +1,5 @@
+package Programmers;
+
 //124 나라의 숫자 - level2
 public class P_12899 {
 

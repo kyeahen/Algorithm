@@ -1,3 +1,5 @@
+package Programmers;
+
 //콜라츠 추측 - level1
 public class P_12943 {
     public static void main(String[] args) {

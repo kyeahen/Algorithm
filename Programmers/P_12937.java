@@ -1,3 +1,5 @@
+package Programmers;
+
 //짝수와 홀수 - level1
 public class P_12937 {
     public static void main(String[] args) {

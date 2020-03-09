@@ -1,3 +1,4 @@
+package Programmers;
 import java.util.HashMap;
 
 //위장 - level2

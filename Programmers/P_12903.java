@@ -1,3 +1,5 @@
+package Programmers;
+
 //가운데 글자 가져오기 - level1
 public class P_12903 {
     public static void main(String[] args) {

@@ -1,3 +1,4 @@
+package Programmers;
 import java.util.Arrays;
 
 //최대공약수와 최대공배수 - level1

@@ -1,3 +1,5 @@
+package Programmers;
+
 //평균 구하기 - level1
 public class P_12944 {
     public static void main(String[] args) {

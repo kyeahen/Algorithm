@@ -1,3 +1,4 @@
+package Baekjoon;
 import java.util.Scanner;
 
 //경로 찾기

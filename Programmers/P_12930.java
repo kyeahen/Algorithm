@@ -1,3 +1,5 @@
+package Programmers;
+
 //이상한 문자 만들기 - level1
 public class P_12930 {
     public static void main(String[] args) {

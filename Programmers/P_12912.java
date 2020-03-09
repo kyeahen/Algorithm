@@ -1,3 +1,5 @@
+package Programmers;
+
 //두 정수 사이의 합 - level1
 public class P_12912 {
 

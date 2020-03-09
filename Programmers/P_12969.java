@@ -1,3 +1,4 @@
+package Programmers;
 import java.util.Scanner;
 
 //직사각형 별찍기 - level1

@@ -1,3 +1,5 @@
+package Programmers;
+
 //정수 제곱근 판별 - level1
 public class P_12934 {
     public static void main(String[] args) {
