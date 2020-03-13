@@ -57,3 +57,4 @@
 - [42885 구명보트](https://kyeahen.github.io/algorithm/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-42885-%EA%B5%AC%EB%AA%85%EB%B3%B4%ED%8A%B8/)
 - [12924 숫자의 표현](https://kyeahen.github.io/algorithm/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-12924-%EC%88%AB%EC%9E%90%EC%9D%98-%ED%91%9C%ED%98%84/)
 - [12939 최댓값과 최솟값](https://kyeahen.github.io/algorithm/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-12939-%EC%B5%9C%EB%8C%93%EA%B0%92%EA%B3%BC-%EC%B5%9C%EC%86%9F%EA%B0%92/)
+- [12945 피보나치 수](https://kyeahen.github.io/algorithm/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-12945-%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98-%EC%88%98/)
