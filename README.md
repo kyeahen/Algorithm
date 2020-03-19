@@ -63,3 +63,4 @@
 - [12909 올바른 괄호](https://kyeahen.github.io/algorithm/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-12909-%EC%98%AC%EB%B0%94%EB%A5%B8-%EA%B4%84%ED%98%B8/)
 - [12949 행렬의 곱셈](https://kyeahen.github.io/algorithm/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-12949-%ED%96%89%EB%A0%AC%EC%9D%98-%EA%B3%B1%EC%85%88/)
 - [12941 최솟값 만들기](https://kyeahen.github.io/algorithm/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-12941-%EC%B5%9C%EC%86%9F%EA%B0%92-%EB%A7%8C%EB%93%A4%EA%B8%B0/)
+- [12911 다음 큰 숫자](https://kyeahen.github.io/algorithm/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-12911-%EB%8B%A4%EC%9D%8C-%ED%81%B0-%EC%88%AB%EC%9E%90/)
