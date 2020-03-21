@@ -19,6 +19,8 @@ public class P_12977 {
     }
 
     // 조합 : 중복X, 순서X - 백트래킹
+    // nums - 조합을 뽑아 배열, visited - 조합에 뽑혔는지 체크하는 배열, n - 배열의 길이, r - 조합의 길
+    // start를 기준으로 start 보다 작으면 뽑을 후보에서 제외, start 보다 크면 뽑을 후보가 된다.
     public static void combination(int[] nums, boolean[] visited, int start, int n, int r) {
         if (r == 0) {
 
