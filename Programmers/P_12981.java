@@ -40,7 +40,7 @@ public class P_12981 {
                 break;
 
             } else if (nowEnd != prevEnd) { // 마지막 알파벳으로 시작하지 않는 단어를 말했을 경우 (탈락)
-                flag = true; // 탈락자 발
+                flag = true; // 탈락자 발생
                 break;
 
             } else { // 탈락자가 없는 경우
