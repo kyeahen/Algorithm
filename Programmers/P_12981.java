@@ -33,13 +33,13 @@ public class P_12981 {
             }
 
             char prevEnd = tempArr.get(i - 1).charAt(tempArr.get(i - 1).length() - 1); // 이전 단어의 마지막 알파벳
-            char nowEnd = words[i].charAt(0); // 현재 단어의 첫번째 알파벳
+            char nowFirst = words[i].charAt(0); // 현재 단어의 첫번째 알파벳
 
             if (tempArr.contains(words[i])) { // 이미 말한 단어를 말했을 경우 (탈락)
                 flag = true; // 탈락자 발생
                 break;
 
-            } else if (nowEnd != prevEnd) { // 마지막 알파벳으로 시작하지 않는 단어를 말했을 경우 (탈락)
+            } else if (nowFirst != prevEnd) { // 마지막 알파벳으로 시작하지 않는 단어를 말했을 경우 (탈락)
                 flag = true; // 탈락자 발생
                 break;
 
