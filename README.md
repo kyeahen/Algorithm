@@ -10,10 +10,10 @@
 
 ### DFS, BFS
 - [1260 DFS와 BFS](https://kyeahen.github.io/algorithm/BOJ-1260-DFS%EC%99%80-BFS/)
-- 14888 연산자 끼워넣기
-- 14502 연구소
+- [14888 연산자 끼워넣기](https://kyeahen.github.io/algorithm/BOJ-14888-%EC%97%B0%EC%82%B0%EC%9E%90-%EB%81%BC%EC%9B%8C%EB%84%A3%EA%B8%B0/)
+- [14502 연구소](https://kyeahen.github.io/algorithm/BOJ-14502-%EC%97%B0%EA%B5%AC%EC%86%8C/)
 - 2606 바이러스
-- 2667 단지 번호 붙이기
+- [2667 단지 번호 붙이기](https://kyeahen.github.io/algorithm/BOJ-2667-%EB%8B%A8%EC%A7%80%EB%B2%88%ED%98%B8%EB%B6%99%EC%9D%B4%EA%B8%B0/)
 
 ## 프로그래머스
 ### level1
@@ -48,7 +48,7 @@
 - [12915 문자열 내 마음대로 정렬하기](https://kyeahen.github.io/algorithm/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-12915-%EB%AC%B8%EC%9E%90%EC%97%B4-%EB%82%B4-%EB%A7%88%EC%9D%8C%EB%8C%80%EB%A1%9C-%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0/)
 - [12947 하샤드 수](https://kyeahen.github.io/algorithm/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-12947-%ED%95%98%EC%83%A4%EB%93%9C-%EC%88%98/)
 - [12921 소수 찾기](https://kyeahen.github.io/algorithm/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-12921-%EC%86%8C%EC%88%98-%EC%B0%BE%EA%B8%B0/)
-- 42840 모의고사
+- [42840 모의고사] (https://kyeahen.github.io/algorithm/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-42840-%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC/)
 
 ### level2
 - [42588 탑](https://kyeahen.github.io/algorithm/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-42588-%ED%83%91/)
