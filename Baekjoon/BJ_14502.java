@@ -1,6 +1,7 @@
 package Baekjoon;
 import java.util.*;
 
+//연구소 - dfs
 public class BJ_14502 {
 
     static int[] dy = { -1, 1, 0, 0 };

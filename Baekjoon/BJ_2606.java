@@ -1,7 +1,7 @@
 package Baekjoon;
 import java.util.Scanner;
 
-// 바이러스
+// 바이러스 - dfs
 public class BJ_2606 {
 
     static int computers, link;
