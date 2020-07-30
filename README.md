@@ -14,6 +14,7 @@
 - [14502 연구소](https://kyeahen.github.io/algorithm/BOJ-14502-%EC%97%B0%EA%B5%AC%EC%86%8C/)
 - [2606 바이러스](https://kyeahen.github.io/algorithm/BOJ-2606-%EB%B0%94%EC%9D%B4%EB%9F%AC%EC%8A%A4/)
 - [2667 단지번호붙이기](https://kyeahen.github.io/algorithm/BOJ-2667-%EB%8B%A8%EC%A7%80%EB%B2%88%ED%98%B8%EB%B6%99%EC%9D%B4%EA%B8%B0/)
+- [2589 보물섬](https://kyeahen.github.io/algorithm/BOJ-2589-%EB%B3%B4%EB%AC%BC%EC%84%AC/)
 
 ## 프로그래머스
 ### level1
