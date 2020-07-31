@@ -16,6 +16,7 @@
 - [2667 단지번호붙이기](https://kyeahen.github.io/algorithm/BOJ-2667-%EB%8B%A8%EC%A7%80%EB%B2%88%ED%98%B8%EB%B6%99%EC%9D%B4%EA%B8%B0/)
 - [2589 보물섬](https://kyeahen.github.io/algorithm/BOJ-2589-%EB%B3%B4%EB%AC%BC%EC%84%AC/)
 - [7576 토마토](https://kyeahen.github.io/algorithm/BOJ-7576-%ED%86%A0%EB%A7%88%ED%86%A0/)
+- [9663 N-Queen](https://kyeahen.github.io/algorithm/BOJ-9663-N-Queen/)
 
 ## 프로그래머스
 ### level1
