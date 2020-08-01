@@ -17,6 +17,7 @@
 - [2589 보물섬](https://kyeahen.github.io/algorithm/BOJ-2589-%EB%B3%B4%EB%AC%BC%EC%84%AC/)
 - [7576 토마토](https://kyeahen.github.io/algorithm/BOJ-7576-%ED%86%A0%EB%A7%88%ED%86%A0/)
 - [9663 N-Queen](https://kyeahen.github.io/algorithm/BOJ-9663-N-Queen/)
+- [7569 토마토](https://kyeahen.github.io/algorithm/BOJ-7569-%ED%86%A0%EB%A7%88%ED%86%A0/)
 
 ## 프로그래머스
 ### level1
