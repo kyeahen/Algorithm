@@ -18,6 +18,7 @@
 - [7576 토마토](https://kyeahen.github.io/algorithm/BOJ-7576-%ED%86%A0%EB%A7%88%ED%86%A0/)
 - [9663 N-Queen](https://kyeahen.github.io/algorithm/BOJ-9663-N-Queen/)
 - [7569 토마토](https://kyeahen.github.io/algorithm/BOJ-7569-%ED%86%A0%EB%A7%88%ED%86%A0/)
+- [3055 탈출](https://kyeahen.github.io/algorithm/BOJ-3055-%ED%83%88%EC%B6%9C/)
 
 ## 프로그래머스
 ### level1
