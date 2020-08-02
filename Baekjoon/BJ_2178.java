@@ -38,22 +38,22 @@ public class BJ_2178 {
     public static void bfs(int x, int y) {
         Queue<Point> q = new LinkedList<>();
 
-        q.add(new Point(x, y)); //이동 가능한 좌표(1) 큐에 삽입
-        visited[x][y] = true; //방문한 좌표 -> true
+        q.add(new Point(x, y)); //이동 가능한 (1) 큐에 삽입
+        visited[x][y] = true; //방문한 칸 -> true
 
         while (!q.isEmpty()) {
             Point p = q.poll();
 
-            //해당 좌표를 기준으로 상하좌우 탐색
+            //해당 칸을 기준으로 상하좌우 탐색
             for (int i = 0; i < 4; i++) {
                 int nx = dx[i] + p.x;
                 int ny = dy[i] + p.y;
 
                 if (nx >= 0 && nx < N && ny >= 0 && ny < M) {
-                    //이동 가능한 좌표(1)이고, 아직 방문하지 않은 좌표일 때
+                    //이동 가능한 칸(1)이고, 아직 방문하지 않은 칸일 때
                     if (map[nx][ny] == 1 && visited[nx][ny] == false) {
-                        q.add(new Point(nx, ny)); //다음 좌표 큐에 삽입
-                        map[nx][ny] = map[p.x][p.y] + 1; //다음 좌표는 현재 좌표보다 1칸 더 가야함 (+1 증가)
+                        q.add(new Point(nx, ny)); //다음 칸 큐에 삽입
+                        map[nx][ny] = map[p.x][p.y] + 1; //다음 칸은 현재 칸보다 1칸 더 가야함 (+1 증가)
                         visited[nx][ny] = true; //방문한 칸 -> true
                     }
                 }
