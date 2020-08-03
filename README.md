@@ -20,6 +20,8 @@
 - [7569 토마토](https://kyeahen.github.io/algorithm/BOJ-7569-%ED%86%A0%EB%A7%88%ED%86%A0/)
 - [3055 탈출](https://kyeahen.github.io/algorithm/BOJ-3055-%ED%83%88%EC%B6%9C/)
 - [2178 미로 탐색](https://kyeahen.github.io/algorithm/BOJ-2178-%EB%AF%B8%EB%A1%9C-%ED%83%90%EC%83%89/)
+- [11403 경로 찾기](https://kyeahen.github.io/algorithm/BOJ-11403-경로-찾기/)
+- [2468 안전 영역](https://kyeahen.github.io/algorithm/BOJ-2468-안전-영역/)
 
 ## 프로그래머스
 ### level1
