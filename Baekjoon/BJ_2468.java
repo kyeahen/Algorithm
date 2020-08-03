@@ -3,7 +3,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Scanner;
 
-//안전 영역 - bfs
+//안전 영역 - bfs, dfs
 public class BJ_2468 {
 
     static int N;
@@ -39,6 +39,7 @@ public class BJ_2468 {
         /* 모든 영역의 높이(층)를 기준으로 물이 잠기는 높이를 설정하고
         안전 영역을 탐색하여 안전 영역 최대 개수를 구한다. */
         for (int k = 0; k < high; k++) {
+
             visited = new boolean[N][N]; //기준 높이(층)마다 방문 체크 배열 초기화
             int count = 0; //기준 높이(층)마다 안전영역 카운트
 
@@ -46,6 +47,7 @@ public class BJ_2468 {
                 for (int j = 0; j < N; j++) {
 
                     if (map[i][j] > k && visited[i][j] == false) { //기준 높이(층)보다 높고, 방문하지 않은 영역일 때
+                        //dfs(i,j,k);
                         bfs(i, j, k);
                         count++;
                     }
@@ -56,6 +58,26 @@ public class BJ_2468 {
         System.out.println(max);
     }
 
+    //dfs - 재귀
+    public static void dfs(int x, int y, int floor) {
+        visited[x][y] = true; //방문 체크
+
+        //해당 영역을 기준으로 상하좌우 탐색
+        for (int i = 0; i < 4; i++) {
+            int nx = dx[i] + x;
+            int ny = dy[i] + y;
+
+            if (nx >= 0 && nx < N && ny >= 0 && ny < N) {
+
+                if (map[nx][ny] > floor && visited[nx][ny] == false) { //기준 높이(층)보다 높고, 방문하지 않은 영역일 때
+                    visited[nx][ny] = true; //방문 체크
+                    dfs(nx, ny, floor);
+                }
+            }
+        }
+    }
+
+    //bfs - 큐(Queue)
     public static void bfs(int x, int y, int floor) {
         Queue<Point> q = new LinkedList<>();
 
