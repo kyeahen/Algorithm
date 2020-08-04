@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class BJ_10026 {
 
     static int N;
-    static char[][] map; //그림의 구역 정보를 저장하 배열
+    static char[][] map; //그림의 구역 정보를 저장한 배열
     static boolean[][] visited; //방문 체크 배열
 
     //상하좌우
