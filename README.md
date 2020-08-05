@@ -22,6 +22,7 @@
 - [2178 미로 탐색](https://kyeahen.github.io/algorithm/BOJ-2178-%EB%AF%B8%EB%A1%9C-%ED%83%90%EC%83%89/)
 - [11403 경로 찾기](https://kyeahen.github.io/algorithm/BOJ-11403-경로-찾기/)
 - [2468 안전 영역](https://kyeahen.github.io/algorithm/BOJ-2468-안전-영역/)
+- [2644 촌수 계산](https://kyeahen.github.io/algorithm/BOJ-2644-%EC%B4%8C%EC%88%98-%EA%B3%84%EC%82%B0/)
 
 ## 프로그래머스
 ### level1
