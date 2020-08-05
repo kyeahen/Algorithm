@@ -37,7 +37,6 @@ public class BJ_2644 {
         }
 
         int result = bfs();
-
         if (result == 0) { //두 사람의 친척 관계가 전혀 없어 촌수를 계산할 수 없을 때
             System.out.println(-1);
         } else {
