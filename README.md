@@ -23,6 +23,7 @@
 - [11403 경로 찾기](https://kyeahen.github.io/algorithm/BOJ-11403-경로-찾기/)
 - [2468 안전 영역](https://kyeahen.github.io/algorithm/BOJ-2468-안전-영역/)
 - [2644 촌수 계산](https://kyeahen.github.io/algorithm/BOJ-2644-%EC%B4%8C%EC%88%98-%EA%B3%84%EC%82%B0/)
+- [13460 구슬 탈출2](https://kyeahen.github.io/algorithm/BOJ-13460-%EA%B5%AC%EC%8A%AC-%ED%83%88%EC%B6%9C2/)
 
 ## 프로그래머스
 ### level1
