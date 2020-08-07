@@ -24,6 +24,7 @@
 - [2468 안전 영역](https://kyeahen.github.io/algorithm/BOJ-2468-안전-영역/)
 - [2644 촌수 계산](https://kyeahen.github.io/algorithm/BOJ-2644-%EC%B4%8C%EC%88%98-%EA%B3%84%EC%82%B0/)
 - [13460 구슬 탈출2](https://kyeahen.github.io/algorithm/BOJ-13460-%EA%B5%AC%EC%8A%AC-%ED%83%88%EC%B6%9C2/)
+- [17144 미세먼지 안녕!](https://kyeahen.github.io/algorithm/BOJ-17144-%EB%AF%B8%EC%84%B8%EB%A8%BC%EC%A7%80-%EC%95%88%EB%85%95!/)
 
 ## 프로그래머스
 ### level1
