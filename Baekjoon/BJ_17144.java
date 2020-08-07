@@ -51,7 +51,7 @@ public class BJ_17144 {
             for (int j = 0; j < C; j++) {
                 int dust = map[i][j] / 5; //확산되는 먼지의 양
 
-                if (map[i][j] != 0 && map[i][j] != -1) { //해당 좌표가 미세먼지
+                if (map[i][j] != 0 && map[i][j] != -1) { //해당 좌표가 미세먼지일 때
 
                     //해당 좌표를 기준으로 상하좌우 탐색 (미세먼지는 4방향으로 확산)
                     for (int k = 0; k < 4; k++) {
