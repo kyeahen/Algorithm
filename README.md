@@ -28,6 +28,7 @@
 - [5014 스타트링크](https://kyeahen.github.io/algorithm/BOJ-5014-%EC%8A%A4%ED%83%80%ED%8A%B8%EB%A7%81%ED%81%AC/)
 - [3184 양](https://kyeahen.github.io/algorithm/BOJ-3184-%EC%96%91/)
 - [2583 영역 구하기](https://kyeahen.github.io/algorithm/BOJ-2583-%EC%98%81%EC%97%AD-%EA%B5%AC%ED%95%98%EA%B8%B0/)
+- [1697 숨바꼭질](https://kyeahen.github.io/algorithm/BOJ-1697-%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%88/)
 
 ## 프로그래머스
 ### level1
