@@ -47,13 +47,10 @@ public class BJ_1697 {
                 if (0 <= next && next <= 100000) { //범위를 벗어나지 않을 때
                     if (map[next] == 0) { //다음 점 위치가 방문하지 않은 곳이면
                         q.add(next); //해당 점 위치 큐에 삽입
-                        map[next] = map[current] + 1; //1초 증가
+                        map[next] = map[current] + 1; //1초 증가시킨 값을 해당 점 위치 배열에 삽입
                     }
                 }
             }
         }
-
-
-
     }
 }
