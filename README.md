@@ -30,6 +30,7 @@
 - [2583 영역 구하기](https://kyeahen.github.io/algorithm/BOJ-2583-%EC%98%81%EC%97%AD-%EA%B5%AC%ED%95%98%EA%B8%B0/)
 - [1697 숨바꼭질](https://kyeahen.github.io/algorithm/BOJ-1697-%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%88/)
 - [2573 빙산](https://kyeahen.github.io/algorithm/BOJ-2573-%EB%B9%99%EC%82%B0/)
+- [1987 알파벳](https://kyeahen.github.io/algorithm/BOJ-1987-%EC%95%8C%ED%8C%8C%EB%B2%B3/)
 
 ## 프로그래머스
 ### level1
