@@ -96,3 +96,6 @@
 - [42842 카펫](https://kyeahen.github.io/algorithm/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-42842-%EC%B9%B4%ED%8E%AB/)
 - [43165 타겟 넘버](https://kyeahen.github.io/algorithm/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-43165-%ED%83%80%EA%B2%9F-%EB%84%98%EB%B2%84/)
 - [12913 땅따먹기](https://kyeahen.github.io/algorithm/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-12913-%EB%95%85%EB%94%B0%EB%A8%B9%EA%B8%B0/)
+- [42888 오픈채팅방]()
+- [60058 괄호 변환]()
+- [17686 [3차] 파일명 정렬]()
