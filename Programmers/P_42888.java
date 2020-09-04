@@ -3,7 +3,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.HashMap;
 
-//2019 kakao blind recruitment
+//2019 kakao blind recruitment - 오픈채팅방
 public class P_42888 {
 
     static String ENTER = "Enter";
