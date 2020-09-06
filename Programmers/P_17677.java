@@ -1,7 +1,7 @@
 package Programmers;
 import java.util.ArrayList;
 
-//2018 KAKAO Blinde Recruitment - [1차] 뉴스 클러스터링
+//2018 KAKAO Blind Recruitment - [1차] 뉴스 클러스터링
 public class P_17677 {
 
     static int NUM = 65536;
