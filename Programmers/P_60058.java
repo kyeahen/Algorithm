@@ -1,6 +1,6 @@
 package Programmers;
 
-//2020 KAKAO Blind Recqruitment - 괄호 변환
+//2020 KAKAO Blind Recruitment - 괄호 변환
 public class P_60058 {
 
     public static void main(String[] args) {
