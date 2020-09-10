@@ -103,3 +103,4 @@
 - [17680 캐시](https://kyeahen.github.io/algorithm/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-17680-%EC%BA%90%EC%8B%9C/)
 - [17683 방금그곡](https://kyeahen.github.io/algorithm/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-17683-%EB%B0%A9%EA%B8%88%EA%B7%B8%EA%B3%A1/)
 - [17687 n진수 게임](https://kyeahen.github.io/algorithm/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-17687-n%EC%A7%84%EC%88%98-%EA%B2%8C%EC%9E%84/)
+- [17682 다트게임](https://kyeahen.github.io/algorithm/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-17682-%EB%8B%A4%ED%8A%B8%EA%B2%8C%EC%9E%84/)
