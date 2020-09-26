@@ -30,10 +30,6 @@ public class BJ_7576 {
         bfs();
     }
 
-    public static void dfs() {
-
-    }
-
     public static void bfs() {
         Queue<Point> q = new LinkedList<>();
 
