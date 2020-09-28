@@ -8,29 +8,37 @@
 - [2231 분해합](https://kyeahen.github.io/algorithm/BOJ-2231-%EB%B6%84%ED%95%B4%ED%95%A9/)
 - [1436 영화감독 숌](https://kyeahen.github.io/algorithm/BOJ-1436-%EC%98%81%ED%99%94%EA%B0%90%EB%8F%85-%EC%88%8C/)
 
-### DFS, BFS
+### DFS
 - [1260 DFS와 BFS](https://kyeahen.github.io/algorithm/BOJ-1260-DFS%EC%99%80-BFS/)
 - [14888 연산자 끼워넣기](https://kyeahen.github.io/algorithm/BOJ-14888-%EC%97%B0%EC%82%B0%EC%9E%90-%EB%81%BC%EC%9B%8C%EB%84%A3%EA%B8%B0/)
 - [14502 연구소](https://kyeahen.github.io/algorithm/BOJ-14502-%EC%97%B0%EA%B5%AC%EC%86%8C/)
 - [2606 바이러스](https://kyeahen.github.io/algorithm/BOJ-2606-%EB%B0%94%EC%9D%B4%EB%9F%AC%EC%8A%A4/)
 - [2667 단지번호붙이기](https://kyeahen.github.io/algorithm/BOJ-2667-%EB%8B%A8%EC%A7%80%EB%B2%88%ED%98%B8%EB%B6%99%EC%9D%B4%EA%B8%B0/)
+- [9663 N-Queen](https://kyeahen.github.io/algorithm/BOJ-9663-N-Queen/)
+- [2468 안전 영역](https://kyeahen.github.io/algorithm/BOJ-2468-안전-영역/)
+- [10026 적록색약](https://kyeahen.github.io/algorithm/BOJ-10026-%EC%A0%81%EB%A1%9D%EC%83%89%EC%95%BD/)
+- [17144 미세먼지 안녕!](https://kyeahen.github.io/algorithm/BOJ-17144-%EB%AF%B8%EC%84%B8%EB%A8%BC%EC%A7%80-%EC%95%88%EB%85%95!/)
+- [2583 영역 구하기](https://kyeahen.github.io/algorithm/BOJ-2583-%EC%98%81%EC%97%AD-%EA%B5%AC%ED%95%98%EA%B8%B0/)
+- [2573 빙산](https://kyeahen.github.io/algorithm/BOJ-2573-%EB%B9%99%EC%82%B0/)
+- [1987 알파벳](https://kyeahen.github.io/algorithm/BOJ-1987-%EC%95%8C%ED%8C%8C%EB%B2%B3/)
+- 14503 로봇 청소기
+
+### BFS
+- [1260 DFS와 BFS](https://kyeahen.github.io/algorithm/BOJ-1260-DFS%EC%99%80-BFS/)
 - [2589 보물섬](https://kyeahen.github.io/algorithm/BOJ-2589-%EB%B3%B4%EB%AC%BC%EC%84%AC/)
 - [7576 토마토](https://kyeahen.github.io/algorithm/BOJ-7576-%ED%86%A0%EB%A7%88%ED%86%A0/)
-- [9663 N-Queen](https://kyeahen.github.io/algorithm/BOJ-9663-N-Queen/)
-- [7569 토마토](https://kyeahen.github.io/algorithm/BOJ-7569-%ED%86%A0%EB%A7%88%ED%86%A0/)
 - [3055 탈출](https://kyeahen.github.io/algorithm/BOJ-3055-%ED%83%88%EC%B6%9C/)
+- [7569 토마토](https://kyeahen.github.io/algorithm/BOJ-7569-%ED%86%A0%EB%A7%88%ED%86%A0/)
 - [2178 미로 탐색](https://kyeahen.github.io/algorithm/BOJ-2178-%EB%AF%B8%EB%A1%9C-%ED%83%90%EC%83%89/)
 - [11403 경로 찾기](https://kyeahen.github.io/algorithm/BOJ-11403-경로-찾기/)
 - [2468 안전 영역](https://kyeahen.github.io/algorithm/BOJ-2468-안전-영역/)
 - [2644 촌수 계산](https://kyeahen.github.io/algorithm/BOJ-2644-%EC%B4%8C%EC%88%98-%EA%B3%84%EC%82%B0/)
 - [13460 구슬 탈출2](https://kyeahen.github.io/algorithm/BOJ-13460-%EA%B5%AC%EC%8A%AC-%ED%83%88%EC%B6%9C2/)
-- [17144 미세먼지 안녕!](https://kyeahen.github.io/algorithm/BOJ-17144-%EB%AF%B8%EC%84%B8%EB%A8%BC%EC%A7%80-%EC%95%88%EB%85%95!/)
 - [5014 스타트링크](https://kyeahen.github.io/algorithm/BOJ-5014-%EC%8A%A4%ED%83%80%ED%8A%B8%EB%A7%81%ED%81%AC/)
 - [3184 양](https://kyeahen.github.io/algorithm/BOJ-3184-%EC%96%91/)
-- [2583 영역 구하기](https://kyeahen.github.io/algorithm/BOJ-2583-%EC%98%81%EC%97%AD-%EA%B5%AC%ED%95%98%EA%B8%B0/)
 - [1697 숨바꼭질](https://kyeahen.github.io/algorithm/BOJ-1697-%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%88/)
-- [2573 빙산](https://kyeahen.github.io/algorithm/BOJ-2573-%EB%B9%99%EC%82%B0/)
-- [1987 알파벳](https://kyeahen.github.io/algorithm/BOJ-1987-%EC%95%8C%ED%8C%8C%EB%B2%B3/)
+- 14503 로봇 청소기
+- 1963 소수 경로 
 
 ## 프로그래머스
 ### level1
@@ -66,6 +74,8 @@
 - [12947 하샤드 수](https://kyeahen.github.io/algorithm/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-12947-%ED%95%98%EC%83%A4%EB%93%9C-%EC%88%98/)
 - [12921 소수 찾기](https://kyeahen.github.io/algorithm/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-12921-%EC%86%8C%EC%88%98-%EC%B0%BE%EA%B8%B0/)
 - [42840 모의고사](https://kyeahen.github.io/algorithm/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-42840-%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC/)
+- [17682 다트게임](https://kyeahen.github.io/algorithm/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-17682-%EB%8B%A4%ED%8A%B8%EA%B2%8C%EC%9E%84/)
+- [42889 실패율](https://kyeahen.github.io/algorithm/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-42889-%EC%8B%A4%ED%8C%A8%EC%9C%A8/)
 
 ### level2
 - [42588 탑](https://kyeahen.github.io/algorithm/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-42588-%ED%83%91/)
@@ -103,4 +113,8 @@
 - [17680 캐시](https://kyeahen.github.io/algorithm/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-17680-%EC%BA%90%EC%8B%9C/)
 - [17683 방금그곡](https://kyeahen.github.io/algorithm/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-17683-%EB%B0%A9%EA%B8%88%EA%B7%B8%EA%B3%A1/)
 - [17687 n진수 게임](https://kyeahen.github.io/algorithm/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-17687-n%EC%A7%84%EC%88%98-%EA%B2%8C%EC%9E%84/)
-- [17682 다트게임](https://kyeahen.github.io/algorithm/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-17682-%EB%8B%A4%ED%8A%B8%EA%B2%8C%EC%9E%84/)
+- 42890 후보키
+- 17679 프렌즈 4블록
+
+### level4
+- 60050 가사 검색
