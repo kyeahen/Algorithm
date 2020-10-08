@@ -12,9 +12,6 @@
 - 1476 날짜계산
 - 1107 리모컨
 
-### DP
-- 1727 커플만들기
-
 ### DFS
 - [1260 DFS와 BFS](https://kyeahen.github.io/algorithm/BOJ-1260-DFS%EC%99%80-BFS/)
 - [14888 연산자 끼워넣기](https://kyeahen.github.io/algorithm/BOJ-14888-%EC%97%B0%EC%82%B0%EC%9E%90-%EB%81%BC%EC%9B%8C%EB%84%A3%EA%B8%B0/)
@@ -46,6 +43,9 @@
 - [1697 숨바꼭질](https://kyeahen.github.io/algorithm/BOJ-1697-%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%88/)
 - 14503 로봇 청소기
 - 1963 소수 경로 
+
+### DP
+- 1727 커플만들기
 
 ### Stack
 - 2504 괄호의 값
@@ -125,6 +125,15 @@
 - [17687 n진수 게임](https://kyeahen.github.io/algorithm/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-17687-n%EC%A7%84%EC%88%98-%EA%B2%8C%EC%9E%84/)
 - 42890 후보키
 - 17679 프렌즈 4블록
+
+### lever3
+
+#### DFS
+- 43162 네트워크
+- 43163 단어변환
+
+#### BFS
+- 43163 단어변환
 
 ### level4
 - 60050 가사 검색
