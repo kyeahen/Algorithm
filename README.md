@@ -8,9 +8,9 @@
 - [7568 덩치](https://kyeahen.github.io/algorithm/BOJ-7568-%EB%8D%A9%EC%B9%98/)
 - [2231 분해합](https://kyeahen.github.io/algorithm/BOJ-2231-%EB%B6%84%ED%95%B4%ED%95%A9/)
 - [1436 영화감독 숌](https://kyeahen.github.io/algorithm/BOJ-1436-%EC%98%81%ED%99%94%EA%B0%90%EB%8F%85-%EC%88%8C/)
-- 2309 일곱난쟁이
-- 1476 날짜계산
-- 1107 리모컨
+- [2309 일곱난쟁이](https://kyeahen.github.io/algorithm/BOJ-2309-%EC%9D%BC%EA%B3%B1%EB%82%9C%EC%9F%81%EC%9D%B4/)
+- [1476 날짜계산](https://kyeahen.github.io/algorithm/BOJ-1476-%EB%82%A0%EC%A7%9C%EA%B3%84%EC%82%B0/)
+- [1107 리모컨](https://kyeahen.github.io/algorithm/BOJ-1107-%EB%A6%AC%EB%AA%A8%EC%BB%A8/)
 
 ### DFS
 - [1260 DFS와 BFS](https://kyeahen.github.io/algorithm/BOJ-1260-DFS%EC%99%80-BFS/)
@@ -25,7 +25,7 @@
 - [2583 영역 구하기](https://kyeahen.github.io/algorithm/BOJ-2583-%EC%98%81%EC%97%AD-%EA%B5%AC%ED%95%98%EA%B8%B0/)
 - [2573 빙산](https://kyeahen.github.io/algorithm/BOJ-2573-%EB%B9%99%EC%82%B0/)
 - [1987 알파벳](https://kyeahen.github.io/algorithm/BOJ-1987-%EC%95%8C%ED%8C%8C%EB%B2%B3/)
-- 14503 로봇 청소기
+- [14503 로봇 청소기](https://kyeahen.github.io/algorithm/BOJ-14503-%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0/)
 
 ### BFS
 - [1260 DFS와 BFS](https://kyeahen.github.io/algorithm/BOJ-1260-DFS%EC%99%80-BFS/)
@@ -41,14 +41,14 @@
 - [5014 스타트링크](https://kyeahen.github.io/algorithm/BOJ-5014-%EC%8A%A4%ED%83%80%ED%8A%B8%EB%A7%81%ED%81%AC/)
 - [3184 양](https://kyeahen.github.io/algorithm/BOJ-3184-%EC%96%91/)
 - [1697 숨바꼭질](https://kyeahen.github.io/algorithm/BOJ-1697-%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%88/)
-- 14503 로봇 청소기
-- 1963 소수 경로 
+- [14503 로봇 청소기](https://kyeahen.github.io/algorithm/BOJ-14503-%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0/)
+- [1963 소수 경로](https://kyeahen.github.io/algorithm/BOJ-1963-%EC%86%8C%EC%88%98%EA%B2%BD%EB%A1%9C/)
 
 ### DP
-- 1727 커플만들기
+- [1727 커플만들기](https://kyeahen.github.io/algorithm/BOJ-1727-%EC%BB%A4%ED%94%8C%EB%A7%8C%EB%93%A4%EA%B8%B0/)
 
 ### Stack
-- 2504 괄호의 값
+- [2504 괄호의 값](https://kyeahen.github.io/algorithm/BOJ-2504-%EA%B4%84%ED%98%B8%EC%9D%98%EA%B0%92/)
 
 ## 프로그래머스
 ### level1
@@ -123,14 +123,14 @@
 - [17680 캐시](https://kyeahen.github.io/algorithm/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-17680-%EC%BA%90%EC%8B%9C/)
 - [17683 방금그곡](https://kyeahen.github.io/algorithm/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-17683-%EB%B0%A9%EA%B8%88%EA%B7%B8%EA%B3%A1/)
 - [17687 n진수 게임](https://kyeahen.github.io/algorithm/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-17687-n%EC%A7%84%EC%88%98-%EA%B2%8C%EC%9E%84/)
-- 42890 후보키
-- 17679 프렌즈 4블록
+- [42890 후보키](https://kyeahen.github.io/algorithm/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-42890-%ED%9B%84%EB%B3%B4%ED%82%A4/)
+- [17679 프렌즈 4블록](https://kyeahen.github.io/algorithm/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-17679-%ED%94%84%EB%A0%8C%EC%A6%884%EB%B8%94%EB%A1%9D/)
 
 ### level3
 
 #### DFS/BFS
-- 43162 네트워크
-- 43163 단어변환
+- [43162 네트워크](https://kyeahen.github.io/algorithm/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-43162-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/)
+- [43163 단어변환](https://kyeahen.github.io/algorithm/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-43163-%EB%8B%A8%EC%96%B4%EB%B3%80%ED%99%98/)
 
 ### level4
 - 60050 가사 검색
