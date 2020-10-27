@@ -131,6 +131,7 @@
 #### DFS/BFS
 - [43162 네트워크](https://kyeahen.github.io/algorithm/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-43162-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/)
 - [43163 단어변환](https://kyeahen.github.io/algorithm/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-43163-%EB%8B%A8%EC%96%B4%EB%B3%80%ED%99%98/)
+- [42579 베스트앨범](https://kyeahen.github.io/algorithm/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-42579-%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%95%A8%EB%B2%94/)
 
 ### level4
 - 60050 가사 검색
