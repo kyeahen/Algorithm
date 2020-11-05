@@ -4,13 +4,8 @@
 
 ## 백준
 
-### Brute Force
-- [7568 덩치](https://kyeahen.github.io/algorithm/BOJ-7568-%EB%8D%A9%EC%B9%98/)
-- [2231 분해합](https://kyeahen.github.io/algorithm/BOJ-2231-%EB%B6%84%ED%95%B4%ED%95%A9/)
-- [1436 영화감독 숌](https://kyeahen.github.io/algorithm/BOJ-1436-%EC%98%81%ED%99%94%EA%B0%90%EB%8F%85-%EC%88%8C/)
-- [2309 일곱난쟁이](https://kyeahen.github.io/algorithm/BOJ-2309-%EC%9D%BC%EA%B3%B1%EB%82%9C%EC%9F%81%EC%9D%B4/)
-- [1476 날짜계산](https://kyeahen.github.io/algorithm/BOJ-1476-%EB%82%A0%EC%A7%9C%EA%B3%84%EC%82%B0/)
-- [1107 리모컨](https://kyeahen.github.io/algorithm/BOJ-1107-%EB%A6%AC%EB%AA%A8%EC%BB%A8/)
+### Greedy
+- 5585 거스름돈
 
 ### DFS
 - [1260 DFS와 BFS](https://kyeahen.github.io/algorithm/BOJ-1260-DFS%EC%99%80-BFS/)
@@ -48,6 +43,14 @@
 
 ### Simulation
 - 16926 배열돌리기1
+
+### Brute Force
+- [7568 덩치](https://kyeahen.github.io/algorithm/BOJ-7568-%EB%8D%A9%EC%B9%98/)
+- [2231 분해합](https://kyeahen.github.io/algorithm/BOJ-2231-%EB%B6%84%ED%95%B4%ED%95%A9/)
+- [1436 영화감독 숌](https://kyeahen.github.io/algorithm/BOJ-1436-%EC%98%81%ED%99%94%EA%B0%90%EB%8F%85-%EC%88%8C/)
+- [2309 일곱난쟁이](https://kyeahen.github.io/algorithm/BOJ-2309-%EC%9D%BC%EA%B3%B1%EB%82%9C%EC%9F%81%EC%9D%B4/)
+- [1476 날짜계산](https://kyeahen.github.io/algorithm/BOJ-1476-%EB%82%A0%EC%A7%9C%EA%B3%84%EC%82%B0/)
+- [1107 리모컨](https://kyeahen.github.io/algorithm/BOJ-1107-%EB%A6%AC%EB%AA%A8%EC%BB%A8/)
 
 ### DP
 - [1727 커플만들기](https://kyeahen.github.io/algorithm/BOJ-1727-%EC%BB%A4%ED%94%8C%EB%A7%8C%EB%93%A4%EA%B8%B0/)
