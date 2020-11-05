@@ -10,6 +10,7 @@ public class BJ_15653 {
     static char[][] map;
     static boolean[][][][] visited;
 
+    //상하좌우
     static int[] dx = {1, -1, 0, 0};
     static int[] dy = {0, 0, 1, -1};
 
@@ -61,7 +62,7 @@ public class BJ_15653 {
                 int nrX = n.rX;
                 int nrY = n.rY;
 
-                //빨간 구슬 이동
+                //빨간 구슬 이동 (벽을 만날 때까지 기울이기)
                 while (map[nrX + dx[i]][nrY + dy[i]] != '#') {
                     nrX += dx[i];
                     nrY += dy[i];
@@ -75,7 +76,7 @@ public class BJ_15653 {
                 int nbX = n.bX;
                 int nbY = n.bY;
 
-                //파란 구슬 이동
+                //파란 구슬 이동 (벽을 만날 때까지 기울이기)
                 while (map[nbX + dx[i]][nbY + dy[i]] != '#') {
                     nbX += dx[i];
                     nbY += dy[i];
@@ -89,7 +90,7 @@ public class BJ_15653 {
                 /* 파란색 구슬이 'O'에 빠졌으면, 해당 탐색을 멈춘다.
 
                   - 파란 구슬이 구멍에 빠졌기 때문에 이미 실패지만
-                    기울이는 동작을 그만하는 것은 더이상 구슬이 움직이지 않을 때 까지이다. */
+                    '기울이는 동작을 그만하는 것은 더이상 구슬이 움직이지 않을 때 까지'이다. */
                 if (map[nbX][nbY] == 'O') {
                     continue;
                 }
@@ -111,7 +112,7 @@ public class BJ_15653 {
                         int blue = Math.abs(nbX - n.bX) + Math.abs(nbY - n.bY);
 
                         if (red > blue) {
-                            nrX-= dx[i];
+                            nrX -= dx[i];
                             nrY -= dy[i];
                         } else {
                             nbX -= dx[i];

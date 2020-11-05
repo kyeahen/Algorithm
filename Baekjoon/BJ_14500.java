@@ -9,10 +9,11 @@ public class BJ_14500 {
     static int[][] map;
     static boolean[][] visited;
 
+    //상하좌우
     static int[] dx = {1, -1, 0, 0};
     static int[] dy = {0, 0, 1, -1};
 
-    static int max = 0;
+    static int max = 0; //최댓값
 
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
