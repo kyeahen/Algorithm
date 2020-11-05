@@ -26,6 +26,7 @@
 - [2573 빙산](https://kyeahen.github.io/algorithm/BOJ-2573-%EB%B9%99%EC%82%B0/)
 - [1987 알파벳](https://kyeahen.github.io/algorithm/BOJ-1987-%EC%95%8C%ED%8C%8C%EB%B2%B3/)
 - [14503 로봇 청소기](https://kyeahen.github.io/algorithm/BOJ-14503-%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0/)
+- 14500 테트로미노
 
 ### BFS
 - [1260 DFS와 BFS](https://kyeahen.github.io/algorithm/BOJ-1260-DFS%EC%99%80-BFS/)
@@ -43,12 +44,17 @@
 - [1697 숨바꼭질](https://kyeahen.github.io/algorithm/BOJ-1697-%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%88/)
 - [14503 로봇 청소기](https://kyeahen.github.io/algorithm/BOJ-14503-%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0/)
 - [1963 소수 경로](https://kyeahen.github.io/algorithm/BOJ-1963-%EC%86%8C%EC%88%98%EA%B2%BD%EB%A1%9C/)
+- 15653 구슬탈출4
+
+### Simulation
+- 16926 배열돌리기1
 
 ### DP
 - [1727 커플만들기](https://kyeahen.github.io/algorithm/BOJ-1727-%EC%BB%A4%ED%94%8C%EB%A7%8C%EB%93%A4%EA%B8%B0/)
 
 ### Stack
 - [2504 괄호의 값](https://kyeahen.github.io/algorithm/BOJ-2504-%EA%B4%84%ED%98%B8%EC%9D%98%EA%B0%92/)
+
 
 ## 프로그래머스
 ### level1
@@ -86,6 +92,7 @@
 - [42840 모의고사](https://kyeahen.github.io/algorithm/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-42840-%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC/)
 - [17682 다트게임](https://kyeahen.github.io/algorithm/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-17682-%EB%8B%A4%ED%8A%B8%EA%B2%8C%EC%9E%84/)
 - [42889 실패율](https://kyeahen.github.io/algorithm/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-42889-%EC%8B%A4%ED%8C%A8%EC%9C%A8/)
+- 42862 체육복
 
 ### level2
 - [42588 탑](https://kyeahen.github.io/algorithm/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-42588-%ED%83%91/)
