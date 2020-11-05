@@ -40,6 +40,7 @@
 - [14503 로봇 청소기](https://kyeahen.github.io/algorithm/BOJ-14503-%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0/)
 - [1963 소수 경로](https://kyeahen.github.io/algorithm/BOJ-1963-%EC%86%8C%EC%88%98%EA%B2%BD%EB%A1%9C/)
 - 15653 구슬탈출4
+- 2234 성곽
 
 ### Simulation
 - 16926 배열돌리기1
