@@ -41,6 +41,7 @@
 - [1963 소수 경로](https://kyeahen.github.io/algorithm/BOJ-1963-%EC%86%8C%EC%88%98%EA%B2%BD%EB%A1%9C/)
 - 15653 구슬탈출4
 - 2234 성곽
+- 11724 연결 요소의 개수
 
 ### Simulation
 - 16926 배열돌리기1
