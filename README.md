@@ -6,6 +6,11 @@
 
 ### Greedy
 - 5585 거스름돈
+- 11000 강의실 배정
+- 11407 동전 0
+- 13458 시험 감독
+- 4796 캠핑
+- 12845 모두의 마블
 
 ### DFS
 - [1260 DFS와 BFS](https://kyeahen.github.io/algorithm/BOJ-1260-DFS%EC%99%80-BFS/)
@@ -22,6 +27,8 @@
 - [1987 알파벳](https://kyeahen.github.io/algorithm/BOJ-1987-%EC%95%8C%ED%8C%8C%EB%B2%B3/)
 - [14503 로봇 청소기](https://kyeahen.github.io/algorithm/BOJ-14503-%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0/)
 - 14500 테트로미노
+- 1743 음식물 피하기
+- 1012 유기농 배추
 
 ### BFS
 - [1260 DFS와 BFS](https://kyeahen.github.io/algorithm/BOJ-1260-DFS%EC%99%80-BFS/)
