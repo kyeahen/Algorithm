@@ -6,6 +6,7 @@ public class BJ_14502 {
 
     static int[] dy = { -1, 1, 0, 0 };
     static int[] dx = { 0, 0, -1, 1 };
+
     static int N, M, result;
     static int[][] map, temp;
 
@@ -83,6 +84,7 @@ public class BJ_14502 {
         }
     }
 
+    //바이러스 퍼뜨리기
     public static void spreadVirus(int y, int x) {
 
         // 상하좌우

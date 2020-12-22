@@ -14,8 +14,8 @@ public class BJ_3184 {
     static int[] dx = { 0, 0, -1, 1 };
     static int[] dy = { -1, 1, 0, 0 };
 
-    static int wolfResult = 0;
-    static int sheepResult = 0;
+    static int wolfResult = 0; //늑대의 수
+    static int sheepResult = 0; //양의 수
 
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);

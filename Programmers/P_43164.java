@@ -30,6 +30,7 @@ class Data implements Comparable<Data> {
 public class P_43164 {
 
     static ArrayList<String> r = new ArrayList<>();
+    static boolean[] visited;
 
     public static void main(String[] args) {
         String[][] t = {{"ICN", "JFK"}, {"HND", "IAD"}, {"JFK", "HND"}};
@@ -55,7 +56,7 @@ public class P_43164 {
 
     public static void bfs(String[][] tickets, String start) {
         Queue<String> q = new LinkedList<>();
-        boolean[] visited = new boolean[tickets.length];
+        visited = new boolean[tickets.length];
 
         q.add(start);
         r.add(start);
@@ -64,19 +65,18 @@ public class P_43164 {
             String s = q.poll();
 
             ArrayList<Data> list = new ArrayList<>();
-            String start1 = "", depart1 = "";
             for (int i = 0; i < tickets.length; i++) {
-                start1 = tickets[i][0];
-                depart1 = tickets[i][1];
+                String start1 = tickets[i][0];
+                String dest1 = tickets[i][1];
 
                 if (!visited[i] && s.equals(start1)) {
 
                     //사용하지 않은 티켓 중 다음 경로가 있으면 추가
-                    if (check(visited, tickets, depart1)) {
-                        list.add(new Data(depart1, i)); //경로에 맞는 티켓 추가
+                    if (check(visited, tickets, dest1)) {
+                        list.add(new Data(dest1, i)); //경로에 맞는 티켓 추가
                     } else {
                         if (r.size() == tickets.length) { //마지막 티켓인 경우
-                            list.add(new Data(depart1, i)); //경로에 맞는 티켓 추가
+                            list.add(new Data(dest1, i)); //경로에 맞는 티켓 추가
                         }
                     }
                 }

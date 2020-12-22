@@ -3,7 +3,7 @@ package Baekjoon;
 import java.util.*;
 
 //성곽 - 알고리즘 스터디 (공통)
-// - bfs
+// bfs
 public class BJ_2234 {
 
     static int n, m;
@@ -12,8 +12,6 @@ public class BJ_2234 {
 
     static int[] dx = {1, 0, -1, 0}; //남동북서 -> 동남서북
     static int[] dy = {0, 1, 0, -1};
-
-    static int a = 0;
 
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
@@ -58,7 +56,7 @@ public class BJ_2234 {
                     if (isWall[k]) {
                         map[i][j] -= num[k];
                         max = Math.max(max, bfs(i, j));
-                        map[i][j] += num[k];
+                        map[i][j] += num[k]; //백트래킹
                     }
                 }
             }

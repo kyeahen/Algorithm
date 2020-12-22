@@ -6,8 +6,8 @@ import java.util.Scanner;
 class Move {
     int x;
     int y;
-    int k;
-    int count;
+    int k; //벽
+    int count; //칸
 
     public Move(int x, int y, int k, int count) {
         this.x = x;
@@ -17,7 +17,8 @@ class Move {
     }
 }
 
-//벽 부수고 이동하기2 - bfs
+//벽 부수고 이동하기2 - 알고리즘 스터디(공통)
+// - bfs
 public class BJ_14442 {
 
     static int N, M, K;
@@ -76,7 +77,7 @@ public class BJ_14442 {
 
                         } else { //이동 불가 (벽)
 
-                            if (v.k < K) { //벽 부수는 횟수가 남았을 때
+                            if (v.k < K) { //벽 부수는 횟수가 남았을 때 - 벽 부수기
                                 q.add(new Move(nx, ny, v.k + 1, v.count + 1));
                                 visited[nx][ny][v.k + 1] = true;
                             }
