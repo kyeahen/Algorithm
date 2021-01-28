@@ -4,7 +4,8 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Scanner;
 
-//빙산 - dfs
+//빙산 - 알고리즘 스터디 (공통)
+// - dfs + bfs
 public class BJ_2573 {
 
     static int N, M;
@@ -14,6 +15,8 @@ public class BJ_2573 {
     static int[] dx = {0, 0, -1, 1};
     static int[] dy = {-1, 1, 0, 0};
 
+    //바다 = 0, 나머지 = 빙산 높이
+    // 한 덩어리의 빙산이 주어질 때, 이 빙산이 "두 덩어리 이상"으로 분리되는 최초의 시간(년)을 구하기
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
 
@@ -49,7 +52,7 @@ public class BJ_2573 {
                 break;
             }
 
-            if (count >= 2) { //빙산이두 덩어리 이상으로 분리되는 경우
+            if (count >= 2) { //빙산이 두 덩어리 이상으로 분리되는 경우
                 break; //탈출하여 최초의 시간을 반환
             }
 
@@ -60,7 +63,7 @@ public class BJ_2573 {
         System.out.println(year);
     }
 
-    //빙산을 탐색하는 메소드
+    //빙산을 탐색하는 메소드 (빙산 덩어리 개수 체크)
     public static void dfs(int x, int y) {
         visited[x][y] = true; //방문 체크
 
@@ -79,7 +82,7 @@ public class BJ_2573 {
         }
     }
 
-    //빙산을 녹이는 메소드
+    //빙산을 녹이는 메소드 (바다에 근접한 칸 수 체크)
     public static void melt() {
         Queue<Point> q = new LinkedList<>();
         boolean[][] visited = new boolean[N][M]; //빙산이 1년마다 녹기 때문에 초기화된 방문 체크 배열을 따로 사용
