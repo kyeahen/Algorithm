@@ -37,7 +37,7 @@ public class BJ_11049 {
             return 0;
         }
 
-        if (dp[a][b] != Integer.MAX_VALUE) { //이미 계산된 값일 때
+        if (dp[a][b] != Integer.MAX_VALUE) { //이미 계산된 값일 때, 계산해둔 값 반환
             return dp[a][b];
         }
 

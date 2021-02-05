@@ -37,7 +37,7 @@ public class BJ_10775 {
                 break;
             } else {
 
-                //도킹이 가능하다면 (도킹한 게이트 - 1)과 union 해준다.
+                //도킹이 가능하다면 (도킹한 게이트 - 1)과 union 해준다. (차선책 선택이 가능하도록)
                 merge(docking, docking - 1);
                 ans++;
             }

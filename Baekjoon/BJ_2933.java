@@ -41,7 +41,7 @@ public class BJ_2933 {
             int h = s.nextInt(); //막대를 던진 높이
 
             destroy(R - h, i); //미네랄 파괴
-            down(); //
+            down(); //클러스터 내리기
 
         }
 
@@ -105,7 +105,7 @@ public class BJ_2933 {
                     int ny = dy[i] + p.y;
 
                     if (isRange(nx, ny)) {
-                        if (visited[nx][ny]) { continue;}
+                        if (visited[nx][ny]) { continue; }
 
                         //클러스터이면 (미네랄 조각, x)
                         if (map[nx][ny] == 'x') {
