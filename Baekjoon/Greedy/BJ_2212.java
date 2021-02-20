@@ -24,11 +24,11 @@ public class BJ_2212 {
             points[i] = s.nextInt();
         }
 
-        Arrays.sort(points); //오름차순 정렬
+        Arrays.sort(points); //오름차순 정렬 (센서 순서대로 배치)
 
         ArrayList<Integer> dist = new ArrayList<>(); //센서 좌표 간 거리 저장
-
         int temp = points[0];
+
         for (int i = 1; i < n; i++) {
             int diff = points[i] - temp;
             dist.add(diff);
@@ -38,8 +38,8 @@ public class BJ_2212 {
         Collections.sort(dist); //오름차순 정렬
 
         int ans = 0;
-        int diff = k - 1;
-        for (int i = 1; i <= dist.size() - diff; i++) {
+        int diff = k - 1; //집중국 개수 - 1만큼 센서-센서 간의 거리를 한번 건너뛴다. (거리가 긴 구간들)
+        for (int i = 1; i <= dist.size() - diff; i++) { // 거리 배열에서 diff 값을 빼면 계산해야하는 거리값들만 남음
             ans += dist.get(i - 1);
         }
 
