@@ -33,6 +33,9 @@ public class BJ_9376 {
 
     static int TC;
 
+    static int h, w;
+    static char[][] map;
+
     static int[] dx = {0, 0, 1, -1};
     static int[] dy = {1, -1, 0, 0};
 
@@ -43,18 +46,19 @@ public class BJ_9376 {
 
         while (TC-- > 0) {
             StringTokenizer st = new StringTokenizer(br.readLine());
-            int h = Integer.parseInt(st.nextToken()); //높이
-            int w = Integer.parseInt(st.nextToken()); //너비
+            h = Integer.parseInt(st.nextToken()) + 2; //높이
+            w = Integer.parseInt(st.nextToken()) + 2; //너비
 
-            char[][] map = new char[h][w];
+            map = new char[h][w];
 
+            Point sangeun = new Point(0, 0, 0);
             Point[] prisoners = new Point[2]; //죄수
 
             //. : 빈공간 , * : 벽, # : 문, & : 죄수
             int idx = 0;
-            for (int i = 0; i < h; i++) {
+            for (int i = 1; i < h - 1; i++) {
 
-                String str = br.readLine();
+                String str = "." + br.readLine() + ".";
                 for (int j = 0; j < w; j++) {
                     map[i][j] = str.charAt(j);
 
@@ -65,19 +69,45 @@ public class BJ_9376 {
                 }
             }
 
-            bfs(prisoners[0], map, h, w); //죄수1 탈출
-            bfs(prisoners[1], map, h, w); //죄수2 탈출
+            int[][] dist1 = bfs(sangeun);
+            int[][] dist2 = bfs(prisoners[0]); //죄수1 탈출
+            int[][] dist3 = bfs(prisoners[1]); //죄수2 탈출
+
+            int ans = h * w;
+            int temp = 0;
+            for (int i = 0; i < h; i++) {
+                for (int j = 0; j < w; j++) {
+                    if (map[i][j] == '*') {
+                        continue;
+                    }
+
+                    temp = dist1[i][j] + dist2[i][j] + dist3[i][j];
+
+                    if (map[i][j] == '#') {
+                        temp -= 2;
+                    }
+
+                    if (ans > temp) {
+                        ans = temp;
+                    }
+                }
+            }
+
+            System.out.println(ans);
 
         }
 
     }
 
-    public static void bfs(Point p, char[][] map, int h, int w) {
+    public static int[][] bfs(Point p) {
         Queue<Point> q = new LinkedList<>();
-        boolean[][] visited = new boolean[h][w];
-
         q.offer(p);
-        visited[p.x][p.y] = true;
+
+        int[][] dist = new int[h][w];
+        for (int i = 0; i < h; i++) {
+            Arrays.fill(dist[i], Integer.MAX_VALUE);
+        }
+        dist[p.x][p.y] = 0;
 
         while (!q.isEmpty()) {
             Point point = q.poll();
@@ -88,19 +118,24 @@ public class BJ_9376 {
 
                 if (0 <= nx && nx < h && 0 <= ny && ny < w) {
 
-                    //방문했거나 벽이면 건너뛰기
-                    if (visited[nx][ny] || map[nx][ny] == '*') { continue; };
+                    //벽이면 건너뛰기
+                    if (map[nx][ny] == '*') { continue; };
 
-                    if (map[nx][ny] == '#') { //문
-                        q.offer(new Point(nx, ny, point.count + 1));
+                    if (map[nx][ny] != '#') { //문
+                        if (dist[nx][ny] == Integer.MAX_VALUE || dist[nx][ny] > dist[p.x][p.y]) {
+                            dist[nx][ny] = dist[p.x][p.y];
+                            q.offer(new Point(nx, ny, point.count + 1));
+                        }
                     } else {
-                        q.offer(new Point(nx, ny, point.count));
+                        if (dist[nx][ny] == Integer.MAX_VALUE || dist[nx][ny] > dist[p.x][p.y] + 1) {
+                            dist[nx][ny] = dist[p.x][p.y] + 1;
+                            q.offer(new Point(nx, ny, point.count));
+                        }
                     }
-
-                    visited[nx][ny] = true;
                 }
             }
         }
 
+        return dist;
     }
 }
