@@ -13,6 +13,7 @@ import java.util.StringTokenizer;
  * Category : 이분탐색, 중간에서 만나기
  * Date: 2021/03/02
  * ref - https://kora1492.tistory.com/22
+       - https://velog.io/@hyeon930/BOJ-1208-%EB%B6%80%EB%B6%84%EC%88%98%EC%97%B4%EC%9D%98-%ED%95%A92-Java
  */
 public class BJ_1208 {
 
@@ -53,14 +54,13 @@ public class BJ_1208 {
             //구하고자 하는 합일 경우
             if (l + r == S) {
 
-                //왼쪽에서 중복되는 값의 값 개수를 카운팅
+                //합을 이루고 있는 각 수가 list 내에 몇개 있는지 체크
                 long lcnt = 0;
                 while (left < A.size() && A.get(left) == l) {
                     left++;
                     lcnt++;
                 }
 
-                //오른쪽에서 중복되는 값의 개수를 카운팅
                 long rcnt = 0;
                 while (right >= 0 && B.get(right) == r) {
                     right--;
@@ -72,12 +72,12 @@ public class BJ_1208 {
 
             //구하고자하는 합보다 큰 경우
             if (l + r > S) {
-                right--;
+                right--; //오른쪽 인덱스 감소
             }
 
             //구하고자하는 합보다 작은 경우
             if (l + r < S) {
-                left++;
+                left++; //왼쪽 인덱스 증가
             }
         }
 
@@ -97,6 +97,5 @@ public class BJ_1208 {
         solution(idx + 1, end, sum + arr[idx], list); //현재 idx 선택
         solution(idx + 1, end, sum, list); //현재 idx 선택 안함
     }
-
 
 }
