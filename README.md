@@ -34,8 +34,8 @@
 - [2573 빙산](https://kyeahen.github.io/algorithm/BOJ-2573-%EB%B9%99%EC%82%B0/)
 - [1987 알파벳](https://kyeahen.github.io/algorithm/BOJ-1987-%EC%95%8C%ED%8C%8C%EB%B2%B3/)
 - [14503 로봇 청소기](https://kyeahen.github.io/algorithm/BOJ-14503-%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0/)
-- 14500 테트로미노
-- 1743 음식물 피하기
+- [14500 테트로미노](https://kyeahen.github.io/algorithm/BOJ-14500-%ED%85%8C%ED%8A%B8%EB%A1%9C%EB%AF%B8%EB%85%B8/)
+- [1743 음식물 피하기](https://kyeahen.github.io/algorithm/BOJ-1743-%EC%9D%8C%EC%8B%9D%EB%AC%BC-%ED%94%BC%ED%95%98%EA%B8%B0/)
 - 1012 유기농 배추
 - 2661 좋은 수열 (백트래킹)
 - 14500 테트로미노 (백트래킹)
@@ -56,8 +56,8 @@
 - [3184 양](https://kyeahen.github.io/algorithm/BOJ-3184-%EC%96%91/)
 - [1697 숨바꼭질](https://kyeahen.github.io/algorithm/BOJ-1697-%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%88/)
 - [1963 소수 경로](https://kyeahen.github.io/algorithm/BOJ-1963-%EC%86%8C%EC%88%98%EA%B2%BD%EB%A1%9C/)
-- 15653 구슬탈출4
-- 2234 성곽
+- [15653 구슬탈출4](https://kyeahen.github.io/algorithm/BOJ-15653-%EA%B5%AC%EC%8A%AC%ED%83%88%EC%B6%9C4/)
+- [2234 성곽](https://kyeahen.github.io/algorithm/BOJ-2234-%EC%84%B1%EA%B3%BD/)
 - 11724 연결 요소의 개수
 - 2206 벽 부수고 이동하기 
 - 14442 벽 부수고 이동하기2
@@ -73,7 +73,7 @@
 ### Simulation
 - [14503 로봇 청소기](https://kyeahen.github.io/algorithm/BOJ-14503-%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0/)
 - [17144 미세먼지 안녕!](https://kyeahen.github.io/algorithm/BOJ-17144-%EB%AF%B8%EC%84%B8%EB%A8%BC%EC%A7%80-%EC%95%88%EB%85%95!/)
-- 16926 배열 돌리기1
+- [16926 배열 돌리기1](https://kyeahen.github.io/algorithm/BOJ-16926-%EB%B0%B0%EC%97%B4%EB%8F%8C%EB%A6%AC%EA%B8%B01/)
 - 3190 뱀
 - 3197 백조의 호수
 - 5373 큐빙
@@ -86,7 +86,7 @@
 - 16935 배열 돌리기3
 
 ### Greedy
-- 5585 거스름돈
+- [5585 거스름돈](https://kyeahen.github.io/algorithm/BOJ-5585-%EA%B1%B0%EC%8A%A4%EB%A6%84%EB%8F%88/)
 - 11000 강의실 배정
 - 11407 동전 0
 - 13458 시험 감독
@@ -170,7 +170,7 @@
 - [42840 모의고사](https://kyeahen.github.io/algorithm/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-42840-%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC/)
 - [17682 다트게임](https://kyeahen.github.io/algorithm/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-17682-%EB%8B%A4%ED%8A%B8%EA%B2%8C%EC%9E%84/)
 - [42889 실패율](https://kyeahen.github.io/algorithm/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-42889-%EC%8B%A4%ED%8C%A8%EC%9C%A8/)
-- 42862 체육복
+- [42862 체육복](https://kyeahen.github.io/algorithm/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-42682-%EC%B2%B4%EC%9C%A1%EB%B3%B5/)
 
 ### level2
 - [42588 탑](https://kyeahen.github.io/algorithm/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-42588-%ED%83%91/)
