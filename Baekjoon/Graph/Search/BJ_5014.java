@@ -12,11 +12,13 @@ public class BJ_5014 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
+        // "건물은 1층부터 시작하고, 가장 높은 층은 F층이다."
         F = sc.nextInt();
-        S = sc.nextInt();
-        G = sc.nextInt();
-        U = sc.nextInt();
-        D = sc.nextInt();
+        S = sc.nextInt(); //강호
+        G = sc.nextInt(); //스타트링크
+
+        U = sc.nextInt(); //위로 U층을 가는 버튼
+        D = sc.nextInt(); //아래로 D층을 가는 버튼
 
         map = new int[F + 1];
 
@@ -37,11 +39,11 @@ public class BJ_5014 {
         while (!q.isEmpty()) {
             int s = q.poll();
 
-            if (s == G) { //현재 층과 스타트링크 층이 동일하면 탐색 종료
+            if (s == G) { //현재 층과 스타트링크 층(G)이 동일하면 탐색 종료
                 return;
             }
 
-            if (s + U <= F) { //현재 층에서 U층 올라간 층이 F층 이하일 때
+            if (s + U <= F) { //현재 층에서 U층 올라간 층이 F층 이하일 때 (유효 범위 체크)
 
                 if (map[s + U] == 0) { //아직 해당 층을 방문하지 않았으면
                     q.add(s + U);
@@ -49,7 +51,7 @@ public class BJ_5014 {
                 }
             }
 
-            if (s - D > 0) { //현재 층에서 D층 내려간 층이 존재하는 층일 때
+            if (s - D > 0) { //현재 층에서 D층 내려간 층이 존재하는 층일 때 (유효 범위 체크)
 
                 if (map[s - D] == 0) { //아직 해당 층을 방문하지 않았으면
                     q.add(s - D);
