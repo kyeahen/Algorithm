@@ -40,6 +40,9 @@
 - 2661 좋은 수열 (백트래킹)
 - 14500 테트로미노 (백트래킹)
 - 16964 DFS 스페셜 저지
+- [10451 순열 사이클](https://kyeahen.github.io/algorithm/BOJ-10451-%EC%88%9C%EC%97%B4-%EC%82%AC%EC%9D%B4%ED%81%B4/)
+- [2331 반복 수열](https://kyeahen.github.io/algorithm/BOJ-2331-%EB%B0%98%EB%B3%B5%EC%88%98%EC%97%B4/) 
+- [10971 외판원 순회2 (백트래킹)](https://kyeahen.github.io/algorithm/BOJ-10971-%EC%99%B8%ED%8C%90%EC%9B%90-%EC%88%9C%ED%9A%8C2/)
 
 ### BFS
 - [1260 DFS와 BFS](https://kyeahen.github.io/algorithm/BOJ-1260-DFS%EC%99%80-BFS/)
@@ -110,6 +113,7 @@
 - 11049 행렬 곱셈 순서
 - 14238 출근기록
 - 15486 퇴사2
+- [1520 내리막 길](https://kyeahen.github.io/algorithm/BOJ-1520-%EB%82%B4%EB%A6%AC%EB%A7%89-%EA%B8%B8/)
 
 ### String
 - 1543 문서 검색
@@ -120,6 +124,8 @@
 
 ### Stack
 - [2504 괄호의 값](https://kyeahen.github.io/algorithm/BOJ-2504-%EA%B4%84%ED%98%B8%EC%9D%98%EA%B0%92/)
+- [9012 괄호](https://kyeahen.github.io/algorithm/BOJ-9012-%EA%B4%84%ED%98%B8/)
+- [1874 스택 수열](https://kyeahen.github.io/algorithm/BOJ-1874-%EC%8A%A4%ED%83%9D-%EC%88%98%EC%97%B4/)
 
 ### Queue
 - 1655 가운데로 말해요
@@ -128,6 +134,7 @@
 - 11279 최대 힙
 - 11286 절댓값 힙
 - 13334 철로
+- [1966 프린터 큐](https://kyeahen.github.io/algorithm/BOJ-1966-%ED%94%84%EB%A6%B0%ED%84%B0-%ED%81%90/)
 
 ### etc
 - 15953 상금헌터
