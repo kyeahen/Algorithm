@@ -44,7 +44,7 @@
 - 16964 DFS 스페셜 저지
 - [10451 순열 사이클](https://kyeahen.github.io/algorithm/BOJ-10451-%EC%88%9C%EC%97%B4-%EC%82%AC%EC%9D%B4%ED%81%B4/)
 - [2331 반복 수열](https://kyeahen.github.io/algorithm/BOJ-2331-%EB%B0%98%EB%B3%B5%EC%88%98%EC%97%B4/) 
-- [10971 외판원 순회2](https://kyeahen.github.io/algorithm/BOJ-10971-%EC%99%B8%ED%8C%90%EC%9B%90-%EC%88%9C%ED%9A%8C2/)(백트래킹)
+- [10971 외판원 순회2](https://kyeahen.github.io/algorithm/BOJ-10971-%EC%99%B8%ED%8C%90%EC%9B%90-%EC%88%9C%ED%9A%8C2/) (백트래킹)
 
 ### BFS
 - [1260 DFS와 BFS](https://kyeahen.github.io/algorithm/BOJ-1260-DFS%EC%99%80-BFS/)
