@@ -19,14 +19,13 @@ public class BJ_9012 {
         int T = Integer.parseInt(br.readLine());
         while (T-- > 0) {
             String str = br.readLine();
-
             Stack<Character> stack = new Stack<>();
 
             for (int i = 0; i < str.length(); i++) {
                 char c = str.charAt(i);
 
                 if (!stack.isEmpty()) {
-                    if (stack.peek() == '(' && c == ')') {
+                    if (stack.peek() == '(' && c == ')') { //올바른 괄호 문자열이면 삭제
                         stack.pop();
                     } else {
                         stack.push(c);

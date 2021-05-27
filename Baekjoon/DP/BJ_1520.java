@@ -43,7 +43,7 @@ public class BJ_1520 {
 
     public static int dfs(int x, int y) {
 
-        if (x == M && y == N) {
+        if (x == M && y == N) { //도착지점 도착
             return 1;
         }
 
@@ -59,8 +59,8 @@ public class BJ_1520 {
 
             if (1 <= nx && nx <= M && 1 <= ny && ny <= N) {
 
-                if (map[x][y] > map[nx][ny]) {
-                    dp[x][y] += dfs(nx, ny);
+                if (map[x][y] > map[nx][ny]) { //낮은 지점일 때
+                    dp[x][y] += dfs(nx, ny); //경로 개수 추가
                 }
             }
         }

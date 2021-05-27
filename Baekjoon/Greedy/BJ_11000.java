@@ -1,7 +1,7 @@
 package Baekjoon.Greedy;
 import java.util.*;
 
-//강의실 배정
+//강의실 배정 - 그리디
 public class BJ_11000 {
 
     public static void main(String[] args) {
@@ -11,8 +11,8 @@ public class BJ_11000 {
         int[][] time = new int[N][2];
 
         for (int i = 0; i < N; i++) {
-            time[i][0] = s.nextInt();
-            time[i][1] = s.nextInt();
+            time[i][0] = s.nextInt(); //시작 시간
+            time[i][1] = s.nextInt(); //끝나는 시간
         }
 
         Arrays.sort(time, new Comparator<int[]>() {
@@ -20,14 +20,14 @@ public class BJ_11000 {
             public int compare(int[] o1, int[] o2) {
 
                 if (o1[0] == o2[0]) { //시작 시간이 같으면
-                    return Integer.compare(o1[1], o2[1]);
+                    return Integer.compare(o1[1], o2[1]); //더 빨리 끝나는 수업 배정
                 }
 
-                return Integer.compare(o1[0], o2[0]);
+                return Integer.compare(o1[0], o2[0]); //먼저 시작하는 수업 배정
             }
         });
 
-        PriorityQueue<Integer> pq = new PriorityQueue<>();
+        PriorityQueue<Integer> pq = new PriorityQueue<>(); //수업 종료 시간 (오름차순)
 
         for (int i = 0; i < N; i++) {
             int start = time[i][0];
