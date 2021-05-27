@@ -21,6 +21,8 @@
 ### Graph
 - 1753 최단경로
 - 11179 최소비용 구하기2
+- 1922 네트워크 연결
+- 1197 최소 스패닝 트리
 
 ### DFS
 - [1260 DFS와 BFS](https://kyeahen.github.io/algorithm/BOJ-1260-DFS%EC%99%80-BFS/)
@@ -71,7 +73,7 @@
 - 16953 A -> B
 - 17142 연구소3 (백트래킹)
 - 7562 나이트의 이동
-
+- 1261 알고스팟
 
 ### Simulation
 - [14503 로봇 청소기](https://kyeahen.github.io/algorithm/BOJ-14503-%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0/)
@@ -103,6 +105,7 @@
 - 2839 설탕 배달
 - 10775 공항
 - 4716 풍선
+- 1080 행렬
 
 ### DP
 - [1727 커플만들기](https://kyeahen.github.io/algorithm/BOJ-1727-%EC%BB%A4%ED%94%8C%EB%A7%8C%EB%93%A4%EA%B8%B0/)
@@ -114,6 +117,7 @@
 - 14238 출근기록
 - 15486 퇴사2
 - [1520 내리막 길](https://kyeahen.github.io/algorithm/BOJ-1520-%EB%82%B4%EB%A6%AC%EB%A7%89-%EA%B8%B8/)
+- 2096 내려가기
 
 ### String
 - 1543 문서 검색
@@ -126,6 +130,7 @@
 - [2504 괄호의 값](https://kyeahen.github.io/algorithm/BOJ-2504-%EA%B4%84%ED%98%B8%EC%9D%98%EA%B0%92/)
 - [9012 괄호](https://kyeahen.github.io/algorithm/BOJ-9012-%EA%B4%84%ED%98%B8/)
 - [1874 스택 수열](https://kyeahen.github.io/algorithm/BOJ-1874-%EC%8A%A4%ED%83%9D-%EC%88%98%EC%97%B4/)
+- 2493 탑
 
 ### Queue
 - 1655 가운데로 말해요
@@ -135,6 +140,9 @@
 - 11286 절댓값 힙
 - 13334 철로
 - [1966 프린터 큐](https://kyeahen.github.io/algorithm/BOJ-1966-%ED%94%84%EB%A6%B0%ED%84%B0-%ED%81%90/)
+
+### Hash
+- 1302 베스트셀러
 
 ### etc
 - 15953 상금헌터
@@ -178,6 +186,7 @@
 - [17682 다트게임](https://kyeahen.github.io/algorithm/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-17682-%EB%8B%A4%ED%8A%B8%EA%B2%8C%EC%9E%84/)
 - [42889 실패율](https://kyeahen.github.io/algorithm/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-42889-%EC%8B%A4%ED%8C%A8%EC%9C%A8/)
 - [42862 체육복](https://kyeahen.github.io/algorithm/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-42682-%EC%B2%B4%EC%9C%A1%EB%B3%B5/)
+- 67256 키패드 누르기 
 
 ### level2
 - [42588 탑](https://kyeahen.github.io/algorithm/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-42588-%ED%83%91/)
