@@ -13,15 +13,15 @@
 - [1107 리모컨](https://kyeahen.github.io/algorithm/BOJ-1107-%EB%A6%AC%EB%AA%A8%EC%BB%A8/)
 - [14888 연산자 끼워넣기](https://kyeahen.github.io/algorithm/BOJ-14888-%EC%97%B0%EC%82%B0%EC%9E%90-%EB%81%BC%EC%9B%8C%EB%84%A3%EA%B8%B0/)
 - 15661 링크와 스타트
-- 16986 인싸들의 가위바위보
+- [16986 인싸들의 가위바위보](https://kyeahen.github.io/algorithm/BOJ-16986-%EC%9D%B8%EC%8B%B8%EB%93%A4%EC%9D%98-%EA%B0%80%EC%9C%84%EB%B0%94%EC%9C%84%EB%B3%B4/)
 - 15684 사다리 조작
 - 1065 한수
 - 1182 부분 수열의 합
 
 ### Graph
-- 1753 최단경로
-- 11179 최소비용 구하기2
-- 1922 네트워크 연결
+- [1753 최단경로](https://kyeahen.github.io/algorithm/BOJ-1753-%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C/)
+- [11779 최소비용 구하기2](https://kyeahen.github.io/algorithm/BOJ-11779-%EC%B5%9C%EC%86%8C%EB%B9%84%EC%9A%A9-%EA%B5%AC%ED%95%98%EA%B8%B02/)
+- [1922 네트워크 연결](https://kyeahen.github.io/algorithm/BOJ-1922-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EC%97%B0%EA%B2%B0/)
 - 1197 최소 스패닝 트리
 
 ### DFS
@@ -39,9 +39,8 @@
 - [14500 테트로미노](https://kyeahen.github.io/algorithm/BOJ-14500-%ED%85%8C%ED%8A%B8%EB%A1%9C%EB%AF%B8%EB%85%B8/)
 - [1743 음식물 피하기](https://kyeahen.github.io/algorithm/BOJ-1743-%EC%9D%8C%EC%8B%9D%EB%AC%BC-%ED%94%BC%ED%95%98%EA%B8%B0/)
 - 1012 유기농 배추
-- 2661 좋은 수열 (백트래킹)
+- [2661 좋은 수열](https://kyeahen.github.io/algorithm/BOJ-2661-%EC%A2%8B%EC%9D%80-%EC%88%98%EC%97%B4/) (백트래킹)
 - [14500 테트로미노](https://kyeahen.github.io/algorithm/BOJ-14500-%ED%85%8C%ED%8A%B8%EB%A1%9C%EB%AF%B8%EB%85%B8/) (백트래킹)
-- 16964 DFS 스페셜 저지
 - [10451 순열 사이클](https://kyeahen.github.io/algorithm/BOJ-10451-%EC%88%9C%EC%97%B4-%EC%82%AC%EC%9D%B4%ED%81%B4/)
 - [2331 반복 수열](https://kyeahen.github.io/algorithm/BOJ-2331-%EB%B0%98%EB%B3%B5%EC%88%98%EC%97%B4/) 
 - [10971 외판원 순회2](https://kyeahen.github.io/algorithm/BOJ-10971-%EC%99%B8%ED%8C%90%EC%9B%90-%EC%88%9C%ED%9A%8C2/) (백트래킹)
@@ -66,45 +65,44 @@
 - 11724 연결 요소의 개수
 - 2206 벽 부수고 이동하기 
 - [14442 벽 부수고 이동하기2](https://kyeahen.github.io/algorithm/BOJ-14442-%EB%B2%BD-%EB%B6%80%EC%88%98%EA%B3%A0-%EC%9D%B4%EB%8F%99%ED%95%98%EA%B8%B02/)
-- 2933 미네랄
-- 14395 4연산
+- [2933 미네랄](https://kyeahen.github.io/algorithm/BOJ-2933-%EB%AF%B8%EB%84%A4%EB%9E%84/)
+- [14395 4연산](https://kyeahen.github.io/algorithm/BOJ-14395-4%EC%97%B0%EC%82%B0/)
 - 15653 구슬탈출4
-- 15234 인구이동
+- [16234 인구이동](https://kyeahen.github.io/algorithm/BOJ-16234-%EC%9D%B8%EA%B5%AC%EC%9D%B4%EB%8F%99/)
 - [16953 A -> B](https://kyeahen.github.io/algorithm/BOJ-16953-A-B/)
-- 17142 연구소3 (백트래킹)
+- [17142 연구소3](https://kyeahen.github.io/algorithm/BOJ-17142-%EC%97%B0%EA%B5%AC%EC%86%8C3/) (백트래킹)
 - 7562 나이트의 이동
-- 1261 알고스팟
+- [1261 알고스팟](https://kyeahen.github.io/algorithm/BOJ-1261-%EC%95%8C%EA%B3%A0%EC%8A%A4%ED%8C%9F/)
 
 ### Simulation
 - [14503 로봇 청소기](https://kyeahen.github.io/algorithm/BOJ-14503-%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0/)
 - [17144 미세먼지 안녕!](https://kyeahen.github.io/algorithm/BOJ-17144-%EB%AF%B8%EC%84%B8%EB%A8%BC%EC%A7%80-%EC%95%88%EB%85%95!/)
 - [16926 배열 돌리기1](https://kyeahen.github.io/algorithm/BOJ-16926-%EB%B0%B0%EC%97%B4%EB%8F%8C%EB%A6%AC%EA%B8%B01/)
-- 3190 뱀
-- 3197 백조의 호수
-- 5373 큐빙
+- [3190 뱀](https://kyeahen.github.io/algorithm/BOJ-3190-%EB%B1%80/)
+- [3197 백조의 호수](https://kyeahen.github.io/algorithm/BOJ-3197-%EB%B0%B1%EC%A1%B0%EC%9D%98-%ED%98%B8%EC%88%98/)
 - [12100 2048(Easy)](https://kyeahen.github.io/algorithm/BOJ-12100-2048(easy)/)
 - 14891 톱니바퀴
 - [14999 주사위 굴리기](https://kyeahen.github.io/algorithm/BOJ-14449-%EC%A3%BC%EC%82%AC%EC%9C%84-%EA%B5%B4%EB%A6%AC%EA%B8%B0/)
-- 15662 톱니바퀴2
-- 15683 감시
-- 15685 드래곤 커브
-- 16935 배열 돌리기3
+- [15662 톱니바퀴(2)](https://kyeahen.github.io/algorithm/BOJ-15662-%ED%86%B1%EB%8B%88%EB%B0%94%ED%80%B4(2)/)
+- [15683 감시](https://kyeahen.github.io/algorithm/BOJ-15683-%EA%B0%90%EC%8B%9C/)
+- [15685 드래곤 커브](https://kyeahen.github.io/algorithm/BOJ-15685-%EB%93%9C%EB%9E%98%EA%B3%A4%EC%BB%A4%EB%B8%8C/)
+- [16935 배열 돌리기3](https://kyeahen.github.io/algorithm/BOJ-16935-%EB%B0%B0%EC%97%B4-%EB%8F%8C%EB%A6%AC%EA%B8%B03/)
 
 ### Greedy
 - [5585 거스름돈](https://kyeahen.github.io/algorithm/BOJ-5585-%EA%B1%B0%EC%8A%A4%EB%A6%84%EB%8F%88/)
-- 11000 강의실 배정
+- [11000 강의실 배정](https://kyeahen.github.io/algorithm/BOJ-11000-%EA%B0%95%EC%9D%98%EC%8B%A4-%EB%B0%B0%EC%A0%95/)
 - 11407 동전 0
-- 13458 시험 감독
+- [13458 시험 감독](https://kyeahen.github.io/algorithm/BOJ-13458-%EC%8B%9C%ED%97%98%EA%B0%90%EB%8F%85/)
 - 4796 캠핑
 - 12845 모두의 마블
 - 1339 단어수학
 - 1459 걷기
 - 1700 멀티탭 스케쥴링
 - 1931 회의실 배정
-- 2212 센서
-- 2839 설탕 배달
-- 10775 공항
-- 4716 풍선
+- [2212 센서](https://kyeahen.github.io/algorithm/BOJ-2212-%EC%84%BC%EC%84%9C/)
+- [2839 설탕 배달](https://kyeahen.github.io/algorithm/BOJ-2839-%EC%84%A4%ED%83%95%EB%B0%B0%EB%8B%AC/)
+- [10775 공항](https://kyeahen.github.io/algorithm/BOJ-10775-%EA%B3%B5%ED%95%AD/)
+- [4716 풍선](https://kyeahen.github.io/algorithm/BOJ-4716-%ED%92%8D%EC%84%A0/)
 - 1080 행렬
 
 ### DP
@@ -112,18 +110,18 @@
 - [1915 가장 큰 정사각형](https://kyeahen.github.io/algorithm/BOJ-1915-%EA%B0%80%EC%9E%A5-%ED%81%B0-%EC%A0%95%EC%82%AC%EA%B0%81%ED%98%95/)
 - [2916 자와 각도기](https://kyeahen.github.io/algorithm/BOJ-2916-%EC%9E%90%EC%99%80-%EA%B0%81%EB%8F%84%EA%B8%B0/)
 - [9095 1,2,3 더하기](https://kyeahen.github.io/algorithm/BOJ-9095-1,2,3-%EB%8D%94%ED%95%98%EA%B8%B0/)
-- 11048 이동하기
-- 11049 행렬 곱셈 순서
+- [11048 이동하기](https://kyeahen.github.io/algorithm/BOJ-11048-%EC%9D%B4%EB%8F%99%ED%95%98%EA%B8%B0/)
+- [11049 행렬 곱셈 순서](https://kyeahen.github.io/algorithm/BOJ-11049-%ED%96%89%EB%A0%AC-%EA%B3%B1%EC%85%88-%EC%88%9C%EC%84%9C/)
 - [14238 출근기록](https://kyeahen.github.io/algorithm/BOJ-14238-%EC%B6%9C%EA%B7%BC%EA%B8%B0%EB%A1%9D/)
 - [15486 퇴사2](https://kyeahen.github.io/algorithm/BOJ-15486-%ED%87%B4%EC%82%AC2/)
 - [1520 내리막 길](https://kyeahen.github.io/algorithm/BOJ-1520-%EB%82%B4%EB%A6%AC%EB%A7%89-%EA%B8%B8/)
-- 2096 내려가기
+- [2096 내려가기](https://kyeahen.github.io/algorithm/BOJ-2096-%EB%82%B4%EB%A0%A4%EA%B0%80%EA%B8%B0/)
 
 ### String
 - [1543 문서 검색](https://kyeahen.github.io/algorithm/BOJ-1543-%EB%AC%B8%EC%84%9C-%EA%B2%80%EC%83%89/)
-- 1701 Cubeditor
-- 9250 문자열 집합 판별
-- 9935 문자열 폭발
+- [1701 Cubeditor](https://kyeahen.github.io/algorithm/BOJ-1701-Cubeditor/)
+- [9250 문자열 집합 판별](https://kyeahen.github.io/algorithm/BOJ-%EB%AC%B8%EC%9E%90%EC%97%B4-%EC%A7%91%ED%95%A9-%ED%8C%90%EB%B3%84/)
+- [9935 문자열 폭발](https://kyeahen.github.io/algorithm/BOJ-9935-%EB%AC%B8%EC%9E%90%EC%97%B4-%ED%8F%AD%EB%B0%9C/)
 - [12871 무한 문자열](https://kyeahen.github.io/algorithm/BOJ-12871-%EB%AC%B4%ED%95%9C-%EB%AC%B8%EC%9E%90%EC%97%B4/)
 
 ### Stack
@@ -133,7 +131,7 @@
 - 2493 탑
 
 ### Queue
-- 1655 가운데로 말해요
+- [1655 가운데로 말해요](https://kyeahen.github.io/algorithm/BOJ-1655-%EA%B0%80%EC%9A%B4%EB%8D%B0%EB%A5%BC-%EB%A7%90%ED%95%B4%EC%9A%94/)
 - 2075 n번째 큰 수
 - 2164 카드2
 - 11279 최대 힙
@@ -145,8 +143,8 @@
 - 1302 베스트셀러
 
 ### etc
-- 15953 상금헌터
-- 16917 양념 반 후라이드 반
+- [15953 상금헌터](https://kyeahen.github.io/algorithm/BOJ-15953-%EC%83%81%EA%B8%88%ED%97%8C%ED%84%B0/)
+- [16917 양념 반 후라이드 반](https://kyeahen.github.io/algorithm/BOJ-16917-%EC%96%91%EB%85%90-%EB%B0%98-%ED%9B%84%EB%9D%BC%EC%9D%B4%EB%93%9C-%EB%B0%98/)
 - 6603 로또
 
 ## 프로그래머스
